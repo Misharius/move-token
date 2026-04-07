@@ -1,0 +1,16 @@
+{
+  "name": "MoveToken",
+  "symbol": "MOVE",
+  "description": "Move-to-Earn token on Solana. Earn MOVE by walking and running.",
+  "image": "https://raw.githubusercontent.com/Misharius/move-token/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ]
+}
